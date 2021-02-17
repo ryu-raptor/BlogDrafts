@@ -62,8 +62,8 @@ sil, aa, e, oh, rrなどを作ったら，ほかのキーにコピーして微�
 
 瞼は頂点が多いので根気よく微調整です．眉は楽な部類ですね．
 
-[ブレンドシェイプをコピーする (note)](https://note.com/nanash_/n/n41d0ffb3a4e4)
-[リップシンク用のブレンドシェイプについて (VRChat 日本wiki)](https://vrchatjp.playing.wiki/d/%A5%A2%A5%D0%A5%BF%A1%BC%A4%CE%A5%EA%A5%C3%A5%D7%A5%B7%A5%F3%A5%AF%A4%CE%BA%EE%C0%AE)
+- [ブレンドシェイプをコピーする (note)](https://note.com/nanash_/n/n41d0ffb3a4e4)
+- [リップシンク用のブレンドシェイプについて (VRChat 日本wiki)](https://vrchatjp.playing.wiki/d/%A5%A2%A5%D0%A5%BF%A1%BC%A4%CE%A5%EA%A5%C3%A5%D7%A5%B7%A5%F3%A5%AF%A4%CE%BA%EE%C0%AE)
 
 ![Add face parts](13-Add_faces.png)
 ![Add Blendshapes](14-BlendShapes_for_VRC_Lip_Sync(Hard).png)
@@ -106,6 +106,6 @@ VRMをチェックして，エラーがなければエクスポートします�
 
 ## 9. Unityでインポート, VRChat向けに変換
 あとはVRMのワークフローに従います．
-注意としてはリップシンクの設定をAuto Detectすることと，まばたきのブレンドシェイプを設定することです．
+注意点はリップシンクの設定をAuto Detectすることと，まばたきのブレンドシェイプを設定することです．
 
 ![Import to Unity](15-Import_to_Unity_and_adjust_parameters.png)
