@@ -65,8 +65,8 @@ sil, aa, e, oh, rrなどを作ったら，ほかのキーにコピーして微�
 [ブレンドシェイプをコピーする (note)](https://note.com/nanash_/n/n41d0ffb3a4e4)
 [リップシンク用のブレンドシェイプについて (VRChat 日本wiki)](https://vrchatjp.playing.wiki/d/%A5%A2%A5%D0%A5%BF%A1%BC%A4%CE%A5%EA%A5%C3%A5%D7%A5%B7%A5%F3%A5%AF%A4%CE%BA%EE%C0%AE)
 
-![Add face parts](13-Add_Faces.png)
-![Add Blendshapes](14-BlendShapes_for_VRC_Lip_Sync.png)
+![Add face parts](13-Add_faces.png)
+![Add Blendshapes](14-BlendShapes_for_VRC_Lip_Sync(Hard).png)
 
 以下のスクリプトはブレンドシェイプが一切ついていないオブジェクトにリップシンク用のブレンドシェイプとベースシェイプを追加します．
 ベースシェイプがすでにある場合はコード内に説明があるように`obj.shape_key_add(name='base')`を消してください．
